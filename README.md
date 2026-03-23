@@ -2,11 +2,11 @@
 
 ## Overview
 
-このリポジトリではチケットテンプレートを管理します。
+This repository manages ticket templates.
 
-（汎用利用できるようなテンプレートを作成予定）
+It is intended to provide reusable templates for common workflows.
 
-## 管理対象
+## Managed Platforms
 
 - github: issue_template/issue_form
 - gitlab: issue_template
