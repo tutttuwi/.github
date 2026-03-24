@@ -1,3 +1,10 @@
+---
+name: Issue Report
+about: issue report template
+title: "[ISSUE] "
+labels: issue
+---
+
 # Issue Report (Problem / Task)
 <!--
 Please follow the guidance in each section.

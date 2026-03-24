@@ -1,3 +1,10 @@
+---
+name: Bug Report
+about: bug report template
+title: "[BUG] "
+labels: bug
+---
+
 # Bug Report
 <!--
 Please follow the guidance in each section.

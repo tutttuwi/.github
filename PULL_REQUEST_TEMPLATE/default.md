@@ -1,3 +1,10 @@
+---
+name: Pull Request
+about: pull request template
+title: "[PR] "
+labels: pr
+---
+
 # Pull Request Template
 
 ## Summary
